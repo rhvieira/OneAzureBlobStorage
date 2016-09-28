@@ -1,0 +1,12 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\bin\Debug\OneAzureStorageFSService.exe.config
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\bin\Debug\OneAzureStorageFSService.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\bin\Debug\OneAzureStorageFSService.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\bin\Debug\OneAzureStorageFSService.exe.manifest
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\bin\Debug\OneAzureStorageFSService.application
+C:\temp\OnefsBlob\OneAzureStorageFSService.exe.config
+C:\temp\OnefsBlob\OneAzureStorageFSService.exe
+C:\temp\OnefsBlob\OneAzureStorageFSService.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\obj\Debug\OneAzureStorageFSService.ProjectInstaller.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\obj\Debug\OneAzureStorageFSService.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\obj\Debug\OneAzureStorageFSService.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\OneAzureStorageFSService\obj\Debug\OneAzureStorageFSService.pdb

@@ -1,0 +1,13 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\bin\Debug\OneAzureStorageFS.exe.config
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\bin\Debug\OneAzureStorageFS.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\bin\Debug\OneAzureStorageFS.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\obj\Debug\OneAzureStorageFS.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\obj\Debug\OneAzureStorageFS.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\obj\Debug\OneAzureStorageFS.csprojResolveAssemblyReference.cache
+C:\temp\OnefsBlob\OneAzureStorageFS.exe.config
+C:\temp\OnefsBlob\OneAzureStorageFS.exe
+C:\temp\OnefsBlob\OneAzureStorageFS.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\obj\Debug\OneAzureStorageFS.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\obj\Debug\OneAzureStorageFS.pdb
+C:\Projetos\Produtos\StorageEmu\StorageEmu\obj\Debug\OneAzureStorageFS.exe
+C:\Projetos\Produtos\StorageEmu\StorageEmu\obj\Debug\OneAzureStorageFS.pdb

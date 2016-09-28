@@ -1,0 +1,6 @@
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\bin\Debug\StorageEmu.exe.config
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\obj\Debug\StorageEmu.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\bin\Debug\StorageEmu.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\bin\Debug\StorageEmu.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\obj\Debug\StorageEmu.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\StorageEmu\StorageEmu\obj\Debug\StorageEmu.pdb
